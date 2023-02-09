@@ -1,1 +1,3 @@
-# LampadaOnOff
+ESTE PROJETO É BEM SIMPLE E FAZ PARTE DA MINHA EVOLUÇÃO EM JS.
+
+https://www.youtube.com/watch?v=4r0zOW9Zn-Y&t=19s <<< LINK DO CANAL QUE FEZ O PROJETO!!!!!
